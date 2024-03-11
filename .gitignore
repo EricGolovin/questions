@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+*.swp
+
+# Xcode
+*.build/
+xcuserdata
+*.moved-aside
+.swiftpm
+artifacts/
